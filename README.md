@@ -21,3 +21,6 @@ Text-to-Speech (TTS) AI
 ```bash
 pip install edge-tts pygame asyncio
 python main.py
+
+## file Exe yang sudah siap pakai 
+https://tutorbangyos.blogspot.com/2026/01/cara-membuat-voice-over-ai-natural.html
